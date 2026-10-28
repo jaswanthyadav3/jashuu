@@ -1,1 +1,2 @@
 # jashuu
+echo "welcome"
